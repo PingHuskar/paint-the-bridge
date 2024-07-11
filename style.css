@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}
+
+body {
+  background: #333;
+}
+body .container {
+  display: flex;
+  flex-flow: column;
+}
+
+marquee {
+  cursor: pointer;
+  color: #ccc;
+}/*# sourceMappingURL=style.css.map */
